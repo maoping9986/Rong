@@ -56,37 +56,37 @@ spring:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/broad?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
             # 思信数据源 - 应急广播 - user
             sxuser:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/user?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
             # 思信数据源 - 物联网系统
             sxinfom:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/shuofang?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
             # 思信数据源 - 山洪预警 - rivervis
             sxrivervis:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/rivervis?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
             # 思信数据源 - 村务管理 - village
             sxvillage:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/village?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
                 # 思信数据源 - 村务宝典 - baodian
             sxbaodian:
                 enabled: true
                 url: jdbc:mysql://110.53.162.165:3306/baodian_test?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 username: root
-                password: sx123456AaBb
+                password: hn123456Aa
 
             # 初始连接数
             initial-size: 10
